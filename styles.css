@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap);
 
 :root {
-    --laranja-claro: #FF862A;
+    --vermelho-alaranjado: #bd2b11;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -10,7 +10,7 @@
 
 body {
     font-size: 1rem;
-    font-family: 'Montserrat';
+    font-family: 'Poppins';
 }
 
 header {
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--vermelho-alaranjado);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -70,7 +70,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--vermelho-alaranjado);
 }
 
 
@@ -96,10 +96,10 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'Amatic SC', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--vermelho-alaranjado);
 }
 
 #galeria {
