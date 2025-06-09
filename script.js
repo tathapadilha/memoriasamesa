@@ -38,6 +38,11 @@ document.addEventListener('DOMContentLoaded', function(){
  })
  
  ScrollReveal().reveal('#inicio', { delay: 500 });
- ScrollReveal().reveal('#tropicalia', { delay: 500 });
+ ScrollReveal().reveal('#sopa de santa rita - pitanga,pr', { delay: 500 });
+ ScrollReveal().reveal('#origem', { delay: 500 });
+ ScrollReveal().reveal('#estrutura e organização', { delay: 500 });
+ ScrollReveal().reveal('#trabalho das operárias', { delay: 500 });
+ ScrollReveal().reveal('#voz da tradição', { delay: 500 });
+ ScrollReveal().reveal('#toque final', { delay: 500 });
  ScrollReveal().reveal('#galeria', { delay: 500 });
  ScrollReveal().reveal('#contato', { delay: 500 });
